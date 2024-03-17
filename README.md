@@ -6,15 +6,22 @@
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-SoC     | Qualcomm SDM845 Snapdragon 845
-CPU     | Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)
-GPU     | Adreno 630
-Memory  | 6 GB RAM
-Shipped Android Version | 8.1 with MIUI 9.5
+SoC     | Qualcomm SM6375 Snapdragon 695G (6 nm)
+CPU     | Octa-core (2x2.2 GHz Kryo 660 Gold & 6x1.7 GHz Kryo 660 Silver)
+GPU     | Adreno 619
+Memory  | 6 GB / 8 GB
+Shipped Android Version | Android 13, MIUI 14
 Storage | 64/128/256 GB
-Battery | Non-removable Li-Ion 3400 mAh battery
-Display | 1080 x 2246 pixels, IPS LCD, 18.7:9 ratio (~403 ppi density)
-Camera  | 12 MP, f/1.9, 1/2.55", 1.4µm, dual pixel PDAF, 5 MP, f/2.0, (depth)
+Battery | Non-removable Li-Ion 5000 mAh battery
+Display | 6.67 inches, 107.4 cm2 (~86.0% screen-to-body ratio)
+Wide Camera  | 108 MP, f/1.9, 26mm (wide), 1/1.52", 0.7µm, PDAF
+Ultrawide Camera	 | 8 MP, f/2.2, 118˚ (ultrawide)
+Macro Camera	 | 2 MP, f/2.4, (macro)
+Front Camera | 	16 MP, f/2.5, (wide), 1/3.06" 1.0µm
+
+
+
+
 
 ## Device picture
 
