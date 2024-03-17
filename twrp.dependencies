@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "https://gitlab.com/OrangeFox",
+    "repository": "device/SM6375-common",
+    "target_path": "device/xiaomi/SM6375-common",
+    "branch": "fox_12.1"
+  }
+]
