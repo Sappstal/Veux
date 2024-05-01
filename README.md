@@ -1,4 +1,4 @@
-# Device tree for Poco/Pocophone F1 (codenamed _"beryllium"_)
+# Device tree for Redmi Note 11 Pro 5G (codenamed _"veux"_)
 
 ==================================
 
@@ -25,7 +25,7 @@ Front Camera | 	16 MP, f/2.5, (wide), 1/3.06" 1.0µm
 
 ## Device picture
 
-![Xiaomi POCO F1](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-pocophone-f1-2.jpg)
+![Redmi Note 11 Pro 5G](https://github.com/Sappstal/Veux/assets/88688508/1d02bb14-e3b1-475a-b0ad-5de5ec8abea4)
 
 ## Building
 Generally, see https://wiki.orangefox.tech/en/dev/building
